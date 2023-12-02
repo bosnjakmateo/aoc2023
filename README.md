@@ -29,3 +29,4 @@
 ### Solutions
 
 * [Day 1: Trebuchet?!](/src/main/kotlin/day01.kt)
+* [Day 2: Cube Conundrum](/src/main/kotlin/day02.kt)
