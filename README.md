@@ -31,3 +31,4 @@
 * [Day 1: Trebuchet?!](/src/main/kotlin/day01.kt)
 * [Day 2: Cube Conundrum](/src/main/kotlin/day02.kt)
 * [Day 3: Gear Ratios](/src/main/kotlin/day03.kt)
+* [Day 4: Scratchcards](/src/main/kotlin/day04.kt)
