@@ -28,7 +28,8 @@
 
 ### Solutions
 
-* [Day 1: Trebuchet?!](/src/main/kotlin/day01.kt)
-* [Day 2: Cube Conundrum](/src/main/kotlin/day02.kt)
-* [Day 3: Gear Ratios](/src/main/kotlin/day03.kt)
-* [Day 4: Scratchcards](/src/main/kotlin/day04.kt)
+* [Day 1: Trebuchet?!](/src/main/kotlin/Day01.kt)
+* [Day 2: Cube Conundrum](/src/main/kotlin/Day02.kt)
+* [Day 3: Gear Ratios](/src/main/kotlin/Day03.kt)
+* [Day 4: Scratchcards](/src/main/kotlin/Day04.kt)
+* [Day 5: If You Give A Seed A Fertilizer](/src/main/kotlin/Day05.kt)

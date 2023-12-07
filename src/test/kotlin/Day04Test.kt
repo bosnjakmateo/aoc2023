@@ -7,13 +7,13 @@ class Day04Test {
     fun `should calculate part one`() {
         val input = DataParser.parseStrings("day04.txt")
 
-        assertEquals(13, day04PartOne(input))
+        assertEquals(13, Day04.partOne(input))
     }
 
     @Test
     fun `should calculate part two`() {
         val input = DataParser.parseStrings("day04.txt")
 
-        assertEquals(30, day04PartTwo(input))
+        assertEquals(30, Day04.partTwo(input))
     }
 }
