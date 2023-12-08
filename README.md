@@ -34,3 +34,4 @@
 * [Day 4: Scratchcards](/src/main/kotlin/Day04.kt)
 * [Day 5: If You Give A Seed A Fertilizer](/src/main/kotlin/Day05.kt)
 * [Day 6: Wait For It](/src/main/kotlin/Day06.kt)
+* [Day 7: Camel Cards](/src/main/kotlin/Day07.kt)
