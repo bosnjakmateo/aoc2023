@@ -16,6 +16,8 @@ fun Array<CharArray>.getValueSafe(x: Int, y: Int): Char? {
     return this[y][x]
 }
 
+fun Char.isDot(): Boolean = this == '.'
+
 fun lcm(numbers: List<Long>): Long = numbers.reduce { acc, num -> acc * num / gcd(acc, num) }
 
 fun gcd(a: Long, b: Long): Long = if (b == 0L) a else gcd(b, a % b)
